@@ -1,0 +1,19 @@
+{
+  "name": "tarea4-arqui",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/content": "latest",
+    "@pinia/nuxt": "latest",
+    "better-sqlite3": "^13.0.3",
+    "nuxt": "latest",
+    "pinia": "latest"
+  }
+}
